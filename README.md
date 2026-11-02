@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <h1>Erick</h1>
+  <p><strong>Estoy empezando en el desarrollo de software.</strong></p>
+  <p>Aprendiendo & practicando</p>
+</div>
 
-<!--
-**erickuwp/erickuwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Quiero crear proyectos pequeños mientras sigo aprendiendo
+Estoy aprendiendo a usar Git y GitHub
+Mi objetivo es avanzar paso a paso
+
+### Proyectos
+
+Estoy preparando mis primeros proyectos. Pronto compartiré aquí lo que vaya construyendo.
+
+### Ahora mismo
+
+Aprendiendo los fundamentos de Git
