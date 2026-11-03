@@ -18,7 +18,7 @@ I'm Erick getting started in software development and interested in cybersecurit
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@erick_uwp)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/erick_uwp)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erxckk8@gmail.com)
+
 
 ### 💻 Languages & Markup
 
