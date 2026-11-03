@@ -1,17 +1,30 @@
-<div align="center">
-  <h1>Erick</h1>
-  <p><strong>Empezando en el desarrollo de software</strong></p>
-  <p>Aprendiendo & practicando</p>
+<h1>Erick</h1>
+<p><strong>Getting started in software development</strong></p>
+<p>Learning & practicing</p>
+</div>
 
 ---
 
-### Sobre mí
+### About Me
 
-Estoy aprendiendo a usar Git y GitHub
-<div>
-Mi objetivo es avanzar paso a paso
+I'm Erick getting started in software development and interested in cybersecurity
 
 
-### Ahora mismo
+### Currently
 
-Estoy aprendiendo los fundamentos de Git
+📚 Learning Git, GitHub & Networking
+
+### 🌐 Social Media
+
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@erick_uwp)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/erick_uwp)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erxckk8@gmail.com)
+
+### 💻 Languages & Markup
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+
+### 🛠️ Technologies
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
