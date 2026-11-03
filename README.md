@@ -1,5 +1,5 @@
 <h1>Erick</h1>
-<p><strong>Getting started in software development</strong></p>
+<p>Getting started in software development</p>
 <p>Learning & practicing</p>
 </div>
 
